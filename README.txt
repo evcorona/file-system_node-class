@@ -1,5 +1,7 @@
 Ejercicio en clase
 
+Resource: https://nodejs.org/dist/latest-v14.x/docs/api/fs.html
+
 -Crear un archivo           (createFile.js)
 -Leer un archivo            (readFile.js)
 
