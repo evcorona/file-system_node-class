@@ -13,5 +13,5 @@ fs.writeFile("creado.txt", "Hola desde node :D", "utf8", (error) => {
     console.error("error: ", error);
     return;
   }
-  console.log("Archivo escrito exitosamente");
+  console.log("Archivo creado/escrito exitosamente");
 });
