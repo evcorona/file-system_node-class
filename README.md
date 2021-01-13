@@ -5,8 +5,8 @@
 * Crear un archivo           (createFile.js)
 * Leer un archivo            (readFile.js)
 
-# Práctica
-_Crear en archivos diferentes lo siguiente__
+## Práctica
+_Crear en archivos diferentes lo siguiente_
 * appendFile() 
 * unlink()     
 * copyFile()   
@@ -14,7 +14,7 @@ _Crear en archivos diferentes lo siguiente__
 * método para leer directorios
 * método para borrar directorios
 
-## Resuelto:
+### Resuelto:
 * Agregar data a un archivo  (appendFile.js)
 * Eliminar un archivo        (deleteFile.js)
 * Copiar un archivo          (copyFile.js)
