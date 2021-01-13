@@ -1,11 +1,11 @@
-# Ejercicio en clase
+# Ejercicio en clase 📋
 
-[Documentación](https://nodejs.org/dist/latest*v14.x/docs/api/fs.html) - Node FS Doc
+[Documentación](https://nodejs.org/dist/latest*v14.x/docs/api/fs.html) - Node FS Doc 📖
 
 * Crear un archivo           (createFile.js)
 * Leer un archivo            (readFile.js)
 
-## Práctica
+## Práctica ⚙️
 _Crear en archivos diferentes lo siguiente_
 * appendFile() 
 * unlink()     
@@ -14,7 +14,7 @@ _Crear en archivos diferentes lo siguiente_
 * método para leer directorios
 * método para borrar directorios
 
-### Resuelto:
+### Resuelto: 🤓
 * Agregar data a un archivo  (appendFile.js)
 * Eliminar un archivo        (deleteFile.js)
 * Copiar un archivo          (copyFile.js)
