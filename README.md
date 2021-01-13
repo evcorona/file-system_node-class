@@ -1,18 +1,18 @@
 # Ejercicio en clase
 
-[Documentation](https://nodejs.org/dist/latest*v14.x/docs/api/fs.html) - Node FS Doc
+[Documentación](https://nodejs.org/dist/latest*v14.x/docs/api/fs.html) - Node FS Doc
 
 * Crear un archivo           (createFile.js)
 * Leer un archivo            (readFile.js)
 
 # Práctica
-_Crear en archivos diferentes lo siguiente_
+_Crear en archivos diferentes lo siguiente__
 * appendFile() 
 * unlink()     
 * copyFile()   
-* metodo para crear directorios (tip: mkdir())
-* metodo para leer directorios
-* metodo para borrar directorios
+* método para crear directorios (tip: mkdir())
+* método para leer directorios
+* método para borrar directorios
 
 ## Resuelto:
 * Agregar data a un archivo  (appendFile.js)
